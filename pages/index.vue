@@ -1,9 +1,9 @@
 <template>
   <main>
     <div class="intro">
-      <h1>PREVIEW</h1>
+      <h1>Welocme to Rooney Sounds</h1>
       <p>
-        <img src="https://cdn.pixabay.com/photo/2017/01/14/12/59/iceland-1979445__480.jpg" alt="example">
+        <img src="/images/dog.png" alt="example">
         Hi 👋! This template gives you a
         <a href="https://nuxtjs.org/">Nuxt</a> app with the scaffolding for
         <a href="https://www.netlify.com/products/functions/"
