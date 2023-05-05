@@ -3,7 +3,7 @@
     <div class="intro">
       <h1>Welocme to Rooney Sounds</h1>
       <p>
-        <img src="https://github.com/KeishiAkashi/nuxt-toolbox/blob/main/images/dog.png" alt="example">
+        <img src="main/images/dog.png" alt="example">
         Hi 👋! This template gives you a
         <a href="https://nuxtjs.org/">Nuxt</a> app with the scaffolding for
         <a href="https://www.netlify.com/products/functions/"
